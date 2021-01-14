@@ -1,0 +1,9 @@
+C:\Users\mihol\Desktop\Pr\C#\Tic_Tac_Toe\Tic_Tac_Toe\bin\Debug\net472\Tic_Tac_Toe.exe.config
+C:\Users\mihol\Desktop\Pr\C#\Tic_Tac_Toe\Tic_Tac_Toe\bin\Debug\net472\Tic_Tac_Toe.exe
+C:\Users\mihol\Desktop\Pr\C#\Tic_Tac_Toe\Tic_Tac_Toe\bin\Debug\net472\Tic_Tac_Toe.pdb
+C:\Users\mihol\Desktop\Pr\C#\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\net472\Tic_Tac_Toe.csprojAssemblyReference.cache
+C:\Users\mihol\Desktop\Pr\C#\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\net472\Tic_Tac_Toe.AssemblyInfoInputs.cache
+C:\Users\mihol\Desktop\Pr\C#\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\net472\Tic_Tac_Toe.AssemblyInfo.cs
+C:\Users\mihol\Desktop\Pr\C#\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\net472\Tic_Tac_Toe.csproj.CoreCompileInputs.cache
+C:\Users\mihol\Desktop\Pr\C#\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\net472\Tic_Tac_Toe.exe
+C:\Users\mihol\Desktop\Pr\C#\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\net472\Tic_Tac_Toe.pdb
